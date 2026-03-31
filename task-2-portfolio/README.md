@@ -1,1 +1,5 @@
+In order to build my online presence, I created accounts on GitHub, LinkedIn and Kaggle. GitHub is primarily intended for storage and sharing of code and projects, as well as collaborative development with others. 
 
+On my GitHub account, I have created a profile "README" file that contains my general educational information and some of my learnings/goals. LinkedIn is a site for professional networking, where I've added my education to connect with professionals in my field and to explore possible internship opportunities in the future. Finally, Kaggle is a site whose primary focus is on data science and machine learning; therefore, Kaggle allows users to practice coding, enter competitions, and/or work on actual datasets.
+
+Over the next four years, I plan to regularly update my projects on GitHub; continue to use LinkedIn to expand my professional network; and enhance my technical skills by participating in various challenges through Kaggle. Using these three sites, I will be able to demonstrate some academic growth while also obtaining potential career advancement capabilities.
